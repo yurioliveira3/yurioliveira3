@@ -11,7 +11,7 @@ Computer Engineering - UFSM - SM;
 ```
 Experience in:
     🏚️ 3D modeling;
-    👨‍💻 Low level languages;
+    💻 Low-level programming language;
     🎲 Data;
 
 I currently work as a database assistant:
