@@ -1,6 +1,4 @@
-# Hello my friend <h1>
-
-## Welcome 🛸 <h2>
+# Hello my friend 🛸 <h1>
 ``` 
 My name is Yuri Oliveira Alves; 
 I am 23 years old;
