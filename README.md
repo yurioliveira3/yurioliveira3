@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello my friend <h1>
 
-<!--
-**yurioliveira3/yurioliveira3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome 🛸 <h2>
+``` 
+My name is Yuri Oliveira Alves; 
+I am 23 years old;
+Computer Technician - IFFAR - JC;
+Computer Engineering - UFSM - SM;
+```
+## Work ⚙️ <h2>
+```
+Experience in:
+    🏚️ 3D modeling;
+    👨‍💻 Low level languages;
+    🎲 Data;
 
-Here are some ideas to get you started:
+I currently work as a database assistant:
+    💾 Data migration, sanitization and optimization;
+    📈 Creation and optimization of processes;
+    🤖 Script automation and review;
+```
+## Contacts <h2>
+>📧 [Mail](yuri.alves@ecomp.ufsm.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>📱 [Linkedin](https://www.linkedin.com/in/yuri-oliveira-alves-953652157/)
+
+>📸 [Instagram](https://www.instagram.com/oliveirayurii_/)
