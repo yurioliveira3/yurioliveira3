@@ -18,8 +18,8 @@ I currently work as a database assistant:
     🤖 Script automation and review;
 ```
 ## Contacts <h2>
->📧 [Mail](yuri.alves@ecomp.ufsm.br)
+>📧 [Mail] yuri.alves@ecomp.ufsm.br
 
->📱 [Linkedin](https://www.linkedin.com/in/yuri-oliveira-alves-953652157/)
+>📱  [Lk]   https://www.linkedin.com/in/yuri-oliveira-alves-953652157/
 
->📸 [Instagram](https://www.instagram.com/oliveirayurii_/)
+>📸 [IG]   https://www.instagram.com/oliveirayurii_/
