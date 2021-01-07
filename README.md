@@ -12,7 +12,7 @@ Experience in:
     💻 Low-level programming language;
     🎲 Data;
 
-I currently work as a database assistant:
+I currently work as a senior database analyst:
     💾 Data migration, sanitization and optimization;
     📈 Creation and optimization of processes;
     🤖 Script automation and review;
@@ -20,6 +20,6 @@ I currently work as a database assistant:
 ## Contacts <h2>
 >📧 yuri.alves@ecomp.ufsm.br
 
->📱  https://www.linkedin.com/in/yuri-oliveira-alves-953652157/
+>📱 https://www.linkedin.com/in/yuri-oliveira-alves-953652157/
 
 >📸 https://www.instagram.com/oliveirayurii_/
