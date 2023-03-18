@@ -1,7 +1,6 @@
 # Hello my friend 🛸 <h1>
 ``` 
 My name is Yuri Oliveira Alves; 
-Computer Technician - IFFAR - JC;
 Computer Engineering - UFSM - SM;
 ```
 ## Work ⚙️ <h2>
