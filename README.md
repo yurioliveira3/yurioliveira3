@@ -6,7 +6,6 @@ Computer Engineering - UFSM - SM;
 ## Work ⚙️ <h2>
 ```
 Experience in:
-    🏚️ 3D modeling;
     💻 Low-level programming language;
     🎲 Data;
 
@@ -20,4 +19,4 @@ I currently work as a senior database analyst:
 
 >📱 https://www.linkedin.com/in/yuri-oliveira-alves-953652157/
 
->📸 https://www.instagram.com/oliveirayurii_/
+>📸 https://www.instagram.com/yurioliveira.png/
