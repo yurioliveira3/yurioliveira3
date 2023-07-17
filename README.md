@@ -7,7 +7,7 @@ Computer Engineering - UFSM - SM;
 ```
 Experience in:
     💻 Low-level programming language;
-    🎲 Data;
+    🎲 Data Administration and Data Analytics;
 
 I currently work as a senior database analyst:
     💾 Data migration, sanitization and optimization;
