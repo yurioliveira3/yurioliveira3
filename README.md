@@ -9,7 +9,7 @@ Experience in:
     💻 Low-level programming language;
     🎲 Data Administration and Data Analytics;
 
-I currently work as a senior database analyst:
+I currently work as a database administrator (DBA):
     💾 Data migration, sanitization and optimization;
     📈 Creation and optimization of processes;
     🤖 Script automation and review;
