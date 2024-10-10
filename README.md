@@ -9,7 +9,7 @@ Experience in:
     💻 Low-level programming language;
     🎲 Data Administration and Data Analytics;
 
-I currently work as a database administrator (DBA):
+I currently work as a dev PL/SQL:
     💾 Data migration, sanitization and optimization;
     📈 Creation and optimization of processes;
     🤖 Script automation and review;
